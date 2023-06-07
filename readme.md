@@ -230,4 +230,4 @@ Returns the database as an array of Data objects if it exists, `-1` otherwise.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://devsimsek.mit-license.org) file for details.
