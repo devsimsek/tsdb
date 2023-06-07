@@ -1,6 +1,6 @@
 {
-  "name": "tsdb",
-  "version": "1.0.0",
+  "name": "ts-sdb",
+  "version": "1.0.1",
   "description": "Fast reliable flat-file database.",
   "main": "dist/tsdb.js",
   "types": "dist/tsdb.d.ts",
@@ -15,5 +15,9 @@
   },
   "dependencies": {
     "fs": "^0.0.1-security"
-  }
+  },
+  "repository": {
+  "type": "git",
+  "url": "git+https://github.com/devsimsek/tsdb.git"
+}
 }
