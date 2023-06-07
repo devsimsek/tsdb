@@ -1,0 +1,19 @@
+{
+  "name": "tsdb",
+  "version": "1.0.0",
+  "description": "Fast reliable flat-file database.",
+  "main": "dist/tsdb.js",
+  "types": "dist/tsdb.d.ts",
+  "scripts": {
+    "prepublish": "npx tsc"
+  },
+  "author": "devsimsek",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.2.5",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
