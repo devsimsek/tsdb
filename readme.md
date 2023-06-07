@@ -7,7 +7,7 @@ TSDB is a fast and reliable database port of the original sdb database written i
 To install TSDB, you can use npm:
 
 ```
-npm install tsdb
+npm install ts-sdb
 ```
 
 ## Usage
